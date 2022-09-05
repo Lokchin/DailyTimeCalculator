@@ -1,4 +1,4 @@
-## A calculator for daily percentage
+## A daily percentage calculator
 
 
 I needed a calculator to do reports of percentage of daily time.
